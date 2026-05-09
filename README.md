@@ -3,7 +3,6 @@
 
 ---
 
-## 🚀 About Me
 
 - 🎓 BSCS Student
 - 💻 Passionate MERN Stack Developer
@@ -25,7 +24,7 @@
 
 ## Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ---
@@ -58,25 +57,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/M-talha-mumtaz" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
 <a href="https://linkedin.com/in/m-talha-mumtaz/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
-
----
-
-## 🔥 Current Focus
-
-- Full Stack MERN Applications
-- REST APIs
-- Authentication & Authorization
-- MongoDB Database Design
-- Clean UI/UX
-- Scalable Backend Systems
 
 ---
 
