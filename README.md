@@ -13,20 +13,19 @@
 
 ## 🛠️ Tech Stack
 
+## Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
+## Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
+## Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
