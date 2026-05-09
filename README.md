@@ -52,7 +52,6 @@
 ---
 
 ## 🌐 Connect With Me
-
 <p align="left">
 <a href="https://linkedin.com/in/m-talha-mumtaz/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
